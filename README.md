@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn">
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas">
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-red">
-  <img src="https://img.shields.io/badge/Status-Completed-success">
 </p>
 
 ---
@@ -226,6 +225,7 @@ customer-insights-ml/
 ├── Customer_Churn_Prediction_and_Segmentation.ipynb
 ├── README.md
 ├── requirements.txt
+├── images
 ```
 
 ---
