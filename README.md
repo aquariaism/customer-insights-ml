@@ -268,12 +268,3 @@ Customer_Churn_Prediction_and_Segmentation.ipynb
 
 ---
 
-#  Author
-
-**Abhishek Das**
-
-Integrated Master's in Software Development
-Passionate about Machine Learning, Data Analytics, and Software Development.
-
----
-
